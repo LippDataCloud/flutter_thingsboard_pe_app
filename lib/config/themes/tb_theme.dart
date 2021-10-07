@@ -78,5 +78,5 @@ ThemeData tbTheme = ThemeData(
 ThemeData tbDarkTheme = ThemeData(
     primarySwatch: tbDarkMatIndigo,
     accentColor: Colors.deepOrange,
-    brightness: Brightness.dark
+    brightness: Brightness.light
 );
